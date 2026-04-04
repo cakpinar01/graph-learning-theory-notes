@@ -1,6 +1,6 @@
 # Graph Learning Theory Notes
 
-This repository contains my personal notes on theoretical topics in **Machine Learning on Graphs (MLWG)**.
+This repository contains my personal notes on theoretical topics in **Machine Learning with Graphs (MLWG)**.
 
 The focus is on:
 - understanding key results,
@@ -14,7 +14,6 @@ The focus is on:
 Each topic is organized in its own folder and may include:
 
 - `notes.pdf` → proof explanation  
-- `notes.tex` → LaTeX source (if available)  
 - `demo.ipynb` → small illustrative experiment  
 - `README.md` → short summary  
 
@@ -40,7 +39,7 @@ The goal is clarity and understanding rather than completeness.
 
 ## Acknowledgment
 
-Based on the course *Machine Learning on Graphs*  
+Based on the course *Machine Learning with Graphs*  
 (Prof. Christopher Morris, RWTH Aachen, Winter Semester 2025).
 
 ---
