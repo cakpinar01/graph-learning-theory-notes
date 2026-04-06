@@ -15,7 +15,7 @@ These exercises complement the theoretical notes by providing:
 
 ## Notes
 
-These are personal learning exercises written to deepen understanding of the course material.
+These are course exercises to deepen understanding of the course material.
 
 ## Acknowledgment
 
