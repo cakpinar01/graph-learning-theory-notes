@@ -26,6 +26,9 @@ Each topic is organized in its own folder and may include:
 - **Limitations of Finite Pattern Sets**
   - [PDF](./On%20the%20Limitations%20of%20Finite%20Pattern%20Sets%20in%20the%20WL%20Hierarchy/notes.pdf)
 
+- **Separation between (k + 1)-WL and k-OSWL**
+  - [PDF](./Separation%20between%20(k%20%2B%201)-WL%20and%20k-OSWL/notes.pdf)
+
 (more topics will be added over time)
 
 ---
